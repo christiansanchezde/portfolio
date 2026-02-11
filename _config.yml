@@ -1,1 +1,13 @@
+title: "Alex Dev"
+email: alex@example.com
+description: "R&D Software Engineer specializing in AI & Distributed Systems."
+baseurl: "" 
+url: "" 
+github_username: alexdev
+linkedin_username: alexdev
+# If you have a Google Scholar or ResearchGate link, add it here
+scholar_url: "https://scholar.google.com"
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-architect

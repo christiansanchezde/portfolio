@@ -1,0 +1,14 @@
+- name: "Neural Network Optimizer"
+  description: "A Python library for pruning redundant weights in transformer models, reducing inference time by 30%."
+  tags: ["Python", "PyTorch", "CUDA"]
+  url: "https://github.com/yourusername/optimizer"
+
+- name: "Distributed IoT Mesh"
+  description: "R&D prototype for a self-healing mesh network using Rust and MQTT."
+  tags: ["Rust", "Networking", "IoT"]
+  url: "https://github.com/yourusername/iot-mesh"
+
+- name: "Computer Vision Pipeline"
+  description: "Real-time object detection system for autonomous drone navigation."
+  tags: ["C++", "OpenCV", "YOLO"]
+  url: "https://github.com/yourusername/cv-pipeline"
