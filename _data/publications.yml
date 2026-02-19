@@ -1,0 +1,11 @@
+- title: "Optimizing Transformer Inference on Edge Devices"
+  context: "IEEE Conference on Computer Vision"
+  year: 2023
+  url: "https://arxiv.org/abs/..."
+  type: "Conference Paper"
+
+- title: "Development of an RFID-Based Authentication System for Embedded Linux"
+  context: "Bachelor's Thesis, University Name"
+  year: 2021
+  url: "https://university-repository.edu/..."
+  type: "Thesis"

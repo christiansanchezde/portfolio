@@ -19,15 +19,15 @@ Currently, I am working on **High Performance Computing** solutions at [Company 
     <span class="skill-tag">AWS</span>
 </div>
 
-## Selected Publications
+## Selected Publications & Thesis
+{% for pub in site.data.publications %}
 <div class="pub-item">
-    <span class="pub-title">Optimizing Transformer Inference on Edge Devices</span>
-    <span class="pub-meta">IEEE Conference on Computer Vision, 2023</span>
+    <a href="{{ pub.url }}" class="pub-title" target="_blank">{{ pub.title }}</a>
+    <span class="pub-meta">
+        {{ pub.type }} | {{ pub.context }}, {{ pub.year }}
+    </span>
 </div>
-<div class="pub-item">
-    <span class="pub-title">A Distributed Protocol for IoT Mesh Networks</span>
-    <span class="pub-meta">Journal of Network Systems, 2022</span>
-</div>
+{% endfor %}
 
 ## Personal Projects
 <div class="project-grid">
