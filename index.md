@@ -17,6 +17,7 @@ I have a particular affinity for hardware-level challenges and a deep respect fo
 <span class="skill-tag">SQL</span>
 <span class="skill-tag">Git</span>
 <span class="skill-tag">CMake</span>
+<span class="skill-tag">CI/CD</span>
 </div>
 
 ### Embedded & Industrial Systems
