@@ -3,31 +3,68 @@ layout: default
 ---
 
 ## About Me
-Innovation isn’t just about the "new", it’s about understanding the "why." My background as a researcher taught me how to ask the right questions; my career as a software engineer taught me how to build the right answers. I have a particular affinity for hardware-level challenges and, perhaps unusually, a deep respect for legacy code. I see old systems as a masterclass in engineering logic—lessons that allow me to build more resilient solutions for the future. I thrive in teams where communication is a tool, not an afterthought, and where trust is the foundation of every sprint.
+I’ve always believed that real innovation starts with understanding the "why" behind a system. My background in research taught me how to ask the right questions, while my experience as an engineer taught me how to build practical, reliable answers.
+
+I have a particular affinity for hardware-level challenges and a deep respect for legacy code. I see older systems as a masterclass in engineering logic. There is so much to learn from the way things were built to last, and those lessons help me create more resilient solutions for the future. I’m at my best in teams where communication is treated as a core tool and where trust is the foundation for everything we build together.
 
 ## Technical Skills
-### Software
+### Programming & Software Development
 <div class="skill-tags">
-    <span class="skill-tag">Python</span>
-    <span class="skill-tag">C++17</span>
-    <span class="skill-tag">Rust</span>
-    <span class="skill-tag">PyTorch</span>
-    <span class="skill-tag">CUDA</span>
-    <span class="skill-tag">Docker</span>
-    <span class="skill-tag">Kubernetes</span>
-    <span class="skill-tag">AWS</span>
+<span class="skill-tag">C/C++</span>
+<span class="skill-tag">Python</span>
+<span class="skill-tag">C# / .NET</span>
+<span class="skill-tag">Matlab</span>
+<span class="skill-tag">SQL</span>
+<span class="skill-tag">Git</span>
+<span class="skill-tag">CMake</span>
 </div>
 
-### others
+### Embedded & Industrial Systems
 <div class="skill-tags">
-    <span class="skill-tag">Python</span>
-    <span class="skill-tag">C++17</span>
-    <span class="skill-tag">Rust</span>
-    <span class="skill-tag">PyTorch</span>
-    <span class="skill-tag">CUDA</span>
-    <span class="skill-tag">Docker</span>
-    <span class="skill-tag">Kubernetes</span>
-    <span class="skill-tag">AWS</span>
+<span class="skill-tag">Embedded Linux</span>
+<span class="skill-tag">RTOS</span>
+<span class="skill-tag">Yocto Project</span>
+<span class="skill-tag">PLC (Beckhoff)</span>
+<span class="skill-tag">ST (IEC 61131-3)</span>
+<span class="skill-tag">VHDL</span>
+<span class="skill-tag">Real-Time Systems</span>
+<span class="skill-tag">LabVIEW</span>
+</div>
+
+### Hardware Engineering & Analysis
+<div class="skill-tags">
+<span class="skill-tag">Analog/Digital Design</span>
+<span class="skill-tag">Schematic Analysis</span>
+<span class="skill-tag">Eagle</span>
+<span class="skill-tag">LTSpice</span>
+<span class="skill-tag">Eplan</span>
+<span class="skill-tag">Oscilloscopes & Logic Analyzers</span>
+</div>
+
+### Frameworks & UI
+<div class="skill-tags">
+<span class="skill-tag">Qt</span>
+<span class="skill-tag">WPF / MVVM</span>
+<span class="skill-tag">MFC</span>
+<span class="skill-tag">MAUI</span>
+</div>
+
+### Systems & Research Methodology
+<div class="skill-tags">
+<span class="skill-tag">Control Theory</span>
+<span class="skill-tag">Systems Engineering</span>
+<span class="skill-tag">Requirements Engineering</span>
+<span class="skill-tag">Data Analysis</span>
+<span class="skill-tag">R&D Methodology</span>
+</div>
+
+## Professional Philosophy (Soft Skills)
+<div class="skill-tags">
+<span class="skill-tag">Interdisciplinary Collaboration</span>
+<span class="skill-tag">Technical Communication</span>
+<span class="skill-tag">Transparency</span>
+<span class="skill-tag">Mentorship & Feedback</span>
+<span class="skill-tag">Complex Problem Solving</span>
 </div>
 
 ## Selected Publications & Thesis
