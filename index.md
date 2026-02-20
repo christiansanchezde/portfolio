@@ -59,10 +59,10 @@ I have a particular affinity for hardware-level challenges and a deep respect fo
 <span class="skill-tag">R&D Methodology</span>
 </div>
 
-## Professional Philosophy (Soft Skills)
+## Soft Skills
 <div class="skill-tags">
 <span class="skill-tag">Interdisciplinary Collaboration</span>
-<span class="skill-tag">Technical Communication</span>
+<span class="skill-tag">Communication</span>
 <span class="skill-tag">Transparency</span>
 <span class="skill-tag">Mentorship & Feedback</span>
 <span class="skill-tag">Complex Problem Solving</span>
