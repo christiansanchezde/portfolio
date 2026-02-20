@@ -1,12 +1,12 @@
-title: "Alex Dev"
-#email: alex@example.com
+title: "Christian Sanchez"
+email: ""
 description: "R&D Software Engineer specializing in AI & Distributed Systems."
 baseurl: "/portfolio" 
 url: "https://christiansanchezde.github.io" 
 github_username: alexdev
 linkedin_username: alexdev
 # If you have a Google Scholar or ResearchGate link, add it here
-#scholar_url: "https://scholar.google.com"
+scholar_url: ""
 
 # Build settings
 markdown: kramdown
