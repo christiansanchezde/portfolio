@@ -57,7 +57,3 @@ If you don't want to install Ruby on your machine, you can run the site in a con
 1.  **Profile Info:** Edit `_config.yml` to change your name, email, and social links.
 2.  **Projects:** Add or remove entries in `_data/projects.yml`.
 3.  **Content:** Edit `index.md` to update your Bio, Skills, or Publications.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
