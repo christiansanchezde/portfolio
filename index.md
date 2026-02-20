@@ -3,13 +3,22 @@ layout: default
 ---
 
 ## About Me
-I am a Senior R&D Software Engineer with a passion for bridging the gap between research and production. My work focuses on optimizing neural networks for edge devices and building scalable distributed systems.
-
-Test cahce.
-
-Currently, I am working on **High Performance Computing** solutions at [Company Name]. Previously, I conducted research on Computer Vision at [University/Lab].
+Innovation isn’t just about the "new", it’s about understanding the "why." My background as a researcher taught me how to ask the right questions; my career as a software engineer taught me how to build the right answers. I have a particular affinity for hardware-level challenges and, perhaps unusually, a deep respect for legacy code. I see old systems as a masterclass in engineering logic—lessons that allow me to build more resilient solutions for the future. I thrive in teams where communication is a tool, not an afterthought, and where trust is the foundation of every sprint.
 
 ## Technical Skills
+### Software
+<div class="skill-tags">
+    <span class="skill-tag">Python</span>
+    <span class="skill-tag">C++17</span>
+    <span class="skill-tag">Rust</span>
+    <span class="skill-tag">PyTorch</span>
+    <span class="skill-tag">CUDA</span>
+    <span class="skill-tag">Docker</span>
+    <span class="skill-tag">Kubernetes</span>
+    <span class="skill-tag">AWS</span>
+</div>
+
+### others
 <div class="skill-tags">
     <span class="skill-tag">Python</span>
     <span class="skill-tag">C++17</span>
