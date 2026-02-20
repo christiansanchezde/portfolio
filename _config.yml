@@ -1,1 +1,11 @@
-theme: jekyll-theme-architect
+title: "Christian Sanchez"
+#email: ""
+description: "Software Engineer | PhD in Electronics | Passionate about Real Time and Embedded Systems"
+baseurl: "/portfolio" 
+url: "https://christiansanchezde.github.io" 
+github_username: christiansanchezde
+linkedin_username: christiansanchezde
+#scholar_url: ""
+
+# Build settings
+markdown: kramdown
