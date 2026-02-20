@@ -1,14 +1,14 @@
-- name: "Neural Network Optimizer"
-  description: "A Python library for pruning redundant weights in transformer models, reducing inference time by 30%."
-  tags: ["Python", "PyTorch", "CUDA"]
-  url: "https://github.com/yourusername/optimizer"
+- name: "Pi Jukebox"
+  description: "What began as a vibe-coded music player for my children evolved into a lesson in industrial-grade reliability. To move beyond manual scripts and SD backups, I migrated the entire stack to The Yocto Project, transforming a hobbyist prototype into a fully reproducible, hardened embedded Linux appliance."
+  tags: ["Python", "YOCTO", "kas", "RFID"]
+  url: "https://github.com/christiansanchezde/pi-jukebox-os"
 
-- name: "Distributed IoT Mesh"
-  description: "R&D prototype for a self-healing mesh network using Rust and MQTT."
-  tags: ["Rust", "Networking", "IoT"]
-  url: "https://github.com/yourusername/iot-mesh"
+- name: "MealPlan"
+  description: "A cross-platform mobile and desktop application built with .NET MAUI to streamline household logistics. It leverages a unified codebase to manage weekly nutritional planning and automated shopping list generation, focusing on clean UI/UX and efficient data persistence."
+  tags: ["MAUI", ".NET", "MVVM", "SQLite"]
+  url: "https://github.com/christiansanchezde/MealPlan"
 
-- name: "Computer Vision Pipeline"
-  description: "Real-time object detection system for autonomous drone navigation."
-  tags: ["C++", "OpenCV", "YOLO"]
-  url: "https://github.com/yourusername/cv-pipeline"
+- name: "Pailele"
+  description: "A high-speed line-following robot featuring a custom PID control algorithm optimized for aggressive, small-radius tracks. Built on an NXP 8-bit microcontroller, the design utilizes TTL-level hardware tuning to maximize sensor sensitivity, earning a second-place finish in national Colombian robotics competitions."
+  tags: ["C", "MCU", "PID", "Robotics"]
+  url: "https://github.com/christiansanchezde/Pailele"
