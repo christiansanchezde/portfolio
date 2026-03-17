@@ -12,7 +12,7 @@
         <aside class="sidebar">
             <div>
                 <!-- Add your image to assets/images/profile.jpg -->
-                <img src="{{ '/assets/images/profile.png' | relative_url }}" alt="Profile" class="profile-img">
+                <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile" class="profile-img">
                 <h1>{{ site.title }}</h1>
                 <p class="role">R&D Engineer</p>
                 <p style="font-size: 0.85rem; color: var(--text-muted);">{{ site.description }}</p>
@@ -35,6 +35,9 @@
             
             <footer class="site-footer">
                 &copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.
+                <div style="margin-top: 10px;">
+                    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fwww.christiansanchez.de%2F?color=blue&label=Visits&size=small" alt="Hits Badge">
+                </div>
             </footer>
         </main>
     </div>
