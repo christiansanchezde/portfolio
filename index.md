@@ -13,6 +13,7 @@ I have a particular affinity for hardware-level challenges and a deep respect fo
 <span class="skill-tag">C/C++</span>
 <span class="skill-tag">Python</span>
 <span class="skill-tag">C# / .NET</span>
+<span class="skill-tag">ST (IEC 61131-3)</span>
 <span class="skill-tag">Matlab</span>
 <span class="skill-tag">SQL</span>
 <span class="skill-tag">Git</span>
@@ -26,9 +27,10 @@ I have a particular affinity for hardware-level challenges and a deep respect fo
 <span class="skill-tag">RTOS</span>
 <span class="skill-tag">Yocto Project</span>
 <span class="skill-tag">PLC (Beckhoff)</span>
-<span class="skill-tag">ST (IEC 61131-3)</span>
 <span class="skill-tag">VHDL</span>
 <span class="skill-tag">Real-Time Systems</span>
+<span class="skill-tag">Edge AI</span>
+<span class="skill-tag">Edge Computingh</span>
 <span class="skill-tag">LabVIEW</span>
 </div>
 
@@ -61,11 +63,11 @@ I have a particular affinity for hardware-level challenges and a deep respect fo
 
 ## Soft Skills
 <div class="skill-tags">
-<span class="skill-tag">Interdisciplinary Collaboration</span>
-<span class="skill-tag">Communication</span>
-<span class="skill-tag">Transparency</span>
-<span class="skill-tag">Mentorship & Feedback</span>
-<span class="skill-tag">Complex Problem Solving</span>
+  <span class="skill-tag">End-to-End Ownership</span>
+  <span class="skill-tag">Interdisciplinary Collaboration</span>
+  <span class="skill-tag">Complex Problem Solving</span>
+  <span class="skill-tag">Technical Communication</span>
+  <span class="skill-tag">Constructive Feedback</span>
 </div>
 
 ## Selected Publications & Thesis
