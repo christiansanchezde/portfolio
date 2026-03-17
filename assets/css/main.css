@@ -82,3 +82,9 @@ a:hover { text-decoration: underline; }
     .content { padding: 1.5rem; }
     .sidebar { border-bottom: 1px solid var(--border); }
 }
+
+.site-footer {
+    margin-top: 4rem;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
