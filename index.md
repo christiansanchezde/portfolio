@@ -27,6 +27,7 @@ I have a particular affinity for hardware-level challenges and a deep respect fo
 <span class="skill-tag">RTOS</span>
 <span class="skill-tag">Yocto Project</span>
 <span class="skill-tag">PLC (Beckhoff)</span>
+<span class="skill-tag">ACS Motion Control</span>
 <span class="skill-tag">VHDL</span>
 <span class="skill-tag">Real-Time Systems</span>
 <span class="skill-tag">Edge AI</span>

@@ -3,12 +3,13 @@
   tags: ["Python", "YOCTO", "kas", "RFID"]
   url: "https://github.com/christiansanchezde/pi-jukebox-os"
 
+- name: "Edge Sentinel OS"
+  description: "An edge AI IoT platform built for the Orange Pi 4 Pro. It features a test-driven C++23 architecture with a custom Hardware Abstraction Layer (HAL) for sensor data acquisition, local SQLite storage, and utilizes the onboard Rockchip NPU for real-time environmental anomaly detection. Includes a Python-based web dashboard for data visualization."
+  tags: ["C++23", "Edge AI", "CMake", "TDD (Google Test)", "IoT", "Linux", "Python"]
+  url: "https://github.com/christiansanchezde/edge-sentinel-os"
+
 - name: "MealPlan"
   description: "A cross-platform mobile and desktop application built with .NET MAUI to streamline household logistics. It leverages a unified codebase to manage weekly nutritional planning and automated shopping list generation, focusing on clean UI/UX and efficient data persistence."
   tags: ["MAUI", ".NET", "MVVM", "SQLite"]
   url: "https://github.com/christiansanchezde/MealPlan"
 
-- name: "Pailele"
-  description: "A high-speed line-following robot featuring a custom PID control algorithm optimized for aggressive, small-radius tracks. Built on an NXP 8-bit microcontroller, the design utilizes TTL-level hardware tuning to maximize sensor sensitivity, earning a second-place finish in national Colombian robotics competitions."
-  tags: ["C", "MCU", "PID", "Robotics"]
-  url: "https://github.com/christiansanchezde/Pailele"
