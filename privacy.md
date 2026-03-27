@@ -13,18 +13,18 @@ title: Privacy Policy
 ## 2. General Information & Data Collection
 This website serves strictly as my personal portfolio. **I do not personally collect, store, analyze, or process any personal data from visitors to this site.** However, because this site relies on external platforms to remain online and function properly, certain technical data (such as IP addresses) is automatically processed by the third-party providers listed below.
 
-## 3. Hosting (GitHub Pages)
+### 2.1 Hosting (GitHub Pages)
 This website is hosted on **GitHub Pages**. GitHub may collect User Personal Information from visitors, including logs of visitor IP addresses, to comply with legal obligations and to maintain the security and integrity of the website.
 For more information, see [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-## 4. External Services
+### 2.2 External Services
 
-### Google Fonts
+#### Google Fonts
 This site uses **Google Fonts** to display text uniformly. When your browser loads these fonts, it establishes a direct connection to Google's servers. During this process, your IP address is transmitted to Google.
 For more information, please visit [Google's Privacy Policy](https://policies.google.com/privacy).
 
-### Hits Badge (MyHits)
+#### Hits Badge (MyHits)
 This site uses a visit counter provided by **MyHits (Vercel)**. When the badge image is loaded in the footer, your IP address may be processed by the provider solely to count the visit.
 
-## 5. Contact
-If you have any questions about this policy or my portfolio, please contact me via my **LinkedIn profile** linked on the main page.
+## 3. Contact
+If you have any questions about this policy or my portfolio, please contact me via my [**LinkedIn**](https://linkedin.com/in/christiansanchezde) profile.
